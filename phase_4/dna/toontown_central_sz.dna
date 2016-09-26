@@ -486,6 +486,21 @@ group "toontownCentral" [
   ]
   prop "prop_construction_sign_DNARoot" [
    code [ "prop_construction_sign" ]
+   pos [ -45.5 96 0.5 ]
+   nhpr [ 353 0 0 ]
+  ]
+  prop "prop_construction_sign_DNARoot" [
+   code [ "prop_construction_sign" ]
+   pos [ -149 4 0.5 ]
+   nhpr [ 86 0 0 ]
+  ]
+  prop "prop_construction_sign_DNARoot" [
+   code [ "prop_construction_sign" ]
+   pos [ 31.3 -153 3.025 ]
+   nhpr [ -210 0 0 ]
+  ]
+  prop "prop_construction_sign_DNARoot" [
+   code [ "prop_construction_sign" ]
    pos [ 28.96 158.14 3.125 ]
    nhpr [ 32.01 0 0 ]
   ]
@@ -815,11 +830,6 @@ group "toontownCentral" [
      code [ "door_double_clothesshop_ur" ]
      color [ 0.88 0.45 0.38 1 ]
     ]	
-   ]
-   prop "prop_construction_sign_DNARoot" [
-    code [ "prop_construction_sign" ]
-    pos [ 105 0.5 4.7 ]
-    nhpr [ 270 0 0 ]
    ]
    landmark_building "sz13:toon_landmark_TT_toonhall_DNARoot" [
     code [ "toon_landmark_TT_toonhall" ]

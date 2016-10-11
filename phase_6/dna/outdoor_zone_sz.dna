@@ -95,97 +95,6 @@ group "daisysGarden" [
     code [ "prop_outdoor_zone_entrance" ]
     pos [ -47.8387 -143.259 0.1 ]
     nhpr [ 180 0 0.1 ]
-    sign [
-     code [ "DD_sign2" ]
-     pos [ 0 0 0 ]
-     nhpr [ 0 0 -2.0 ]
-     scale [ 1.85 1 1.35 ]
-     baseline [
-      code [ "TT_Comedy" ]
-      color [ 0.439216 0.247059 0.184314 1 ]
-      pos [ 0 0 -0.3 ]
-      scale [ 1.6 1 1.7 ]
-      wiggle [ 7 ]
-      stumble [ 0.1 ]
-      text [
-       letters [ "F" ]
-      ]
-      text [
-       letters [ "o" ]
-      ]
-      text [
-       letters [ "r" ]
-      ]
-      text [
-       letters [ "e" ]
-      ]
-      text [
-       letters [ "s" ]
-      ]
-	  text [
-       letters [ "t" ]
-      ]
-	  text [
-       letters [ " " ]
-      ]
-	  text [
-       letters [ "T" ]
-      ]
-      text [
-       letters [ "r" ]
-      ]
-      text [
-       letters [ "a" ]
-      ]
-      text [
-       letters [ "i" ]
-      ]
-      text [
-       letters [ "l" ]
-      ]
-	 ] 
-     baseline [
-      code [ "TT_Comedy" ]
-      color [ 0.439216 0.247059 0.184314 1 ]
-      pos [ 0 0 -1.2 ]
-      scale [ 1.2 1 1.2 ]
-      wiggle [ 3 ]
-      stomp [ 0.0367716 ]
-      text [
-       letters [ "A" ]
-      ]
-      text [
-       letters [ "c" ]
-      ]
-      text [
-       letters [ "o" ]
-      ]
-      text [
-       letters [ "r" ]
-      ]
-      text [
-       letters [ "n" ]
-      ]
-      text [
-       letters [ " " ]
-      ]
-      text [
-       letters [ "A" ]
-      ]
-      text [
-       letters [ "c" ]
-      ]
-      text [
-       letters [ "r" ]
-      ]
-      text [
-       letters [ "e" ]
-      ]
-      text [
-       letters [ "s" ]
-      ]
-     ]
-    ]
    ]
    prop "linktunnel_dd_1000_DNARoot" [
     code [ "prop_outdoor_zone_entrance" ]
@@ -200,37 +109,43 @@ group "daisysGarden" [
       code [ "TT_Comedy" ]
       color [ 0.439216 0.247059 0.184314 1 ]
       pos [ 0 0 -0.2 ]
-      scale [ 1.6 1 1.7 ]
+      scale [ 1.5 0.9 1.6 ]
       wiggle [ 7 ]
       stumble [ 0.1 ]
       text [
-       letters [ "P" ]
+       letters [ "N" ]
       ]
       text [
-       letters [ "l" ]
+       letters [ "e" ]
       ]
       text [
-       letters [ "a" ]
-      ]
-      text [
-       letters [ "y" ]
+       letters [ "i" ]
       ]
       text [
        letters [ "g" ]
       ]
       text [
-       letters [ "r" ]
+       letters [ "h" ]
+      ]
+      text [
+       letters [ "b" ]
       ]
       text [
        letters [ "o" ]
       ]
       text [
-       letters [ "u" ]
+       letters [ "r" ]
       ]
       text [
-       letters [ "n" ]
+       letters [ "h" ]
       ]
-      text [
+	  text [
+       letters [ "o" ]
+      ]
+	  text [
+       letters [ "o" ]
+      ]
+	  text [
        letters [ "d" ]
       ]
      ]
@@ -242,28 +157,13 @@ group "daisysGarden" [
       wiggle [ 3 ]
       stomp [ 0.0367716 ]
       text [
-       letters [ "D" ]
+       letters [ "T" ]
       ]
       text [
-       letters [ "o" ]
+       letters [ "h" ]
       ]
       text [
-       letters [ "n" ]
-      ]
-      text [
-       letters [ "a" ]
-      ]
-      text [
-       letters [ "l" ]
-      ]
-      text [
-       letters [ "d" ]
-      ]
-      text [
-       letters [ "'" ]
-      ]
-      text [
-       letters [ "s" ]
+       letters [ "e" ]
       ]
       text [
        letters [ " " ]
@@ -279,6 +179,9 @@ group "daisysGarden" [
       ]
       text [
        letters [ "k" ]
+      ]
+      text [
+       letters [ "s" ]
       ]
      ]
     ]

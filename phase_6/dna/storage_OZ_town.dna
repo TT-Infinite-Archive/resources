@@ -83,3 +83,7 @@ place_model "phase_5/models/props/trashcan_TT" [
 place_model "phase_6/models/golf/picnic_table" [
  store_node [ "prop" "prop_picnic_table_OZ" "" ]
 ]
+
+place_model "phase_6/models/golf/Golfzone_To_Bossbot_Tunnel" [
+	store_node [ "prop" "prop_golf_cog_tunnel" "" ]
+]

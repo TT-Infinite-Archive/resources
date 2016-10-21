@@ -1,4 +1,4 @@
-group "daisysGarden" [
+group "acornAcres" [
  visgroup "6000:safe_zone" [
   vis [   "6000:safe_zone"   ]
   group "props" [
@@ -91,7 +91,7 @@ group "daisysGarden" [
     nhpr [ 105 -0.422594 0.309814 ]
     scale [ 1.0546 1.0546 1.0546 ]
    ]
-   prop "prop_outdoor_zone_entrance_DNARoot" [
+   prop "linktunnel_oz_6100_DNARoot" [
     code [ "prop_outdoor_zone_entrance" ]
     pos [ -47.8387 -143.259 0.1 ]
     nhpr [ 180 0 0.1 ]

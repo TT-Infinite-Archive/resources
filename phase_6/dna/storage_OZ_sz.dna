@@ -20,6 +20,10 @@ place_model "phase_6/models/golf/golf_construction_sign" [
 place_model "phase_4/models/props/construction_sign.bam" [
 	store_node [ "prop" "prop_construction_sign" "" ]
 	]
+	
+place_model "phase_4/models/props/mysterious_cabin_tla_sign.bam" [
+	store_node [ "prop" "prop_mysterious_cabin_tla_sign" "" ]
+	]
 
 place_model "phase_6/models/golf/golf_gazebo" [
 	store_node [ "prop" "prop_golf_gazebo" "" ]

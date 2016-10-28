@@ -4,8 +4,8 @@ group "lostAcre" [
   node "buildings" [
    prop "linktunnel_oz_6000_DNARoot" [
     code [ "prop_outdoor_zone_entrance" ]
-	pos [ -100 152.839 0 ]
-	nhpr [ 0 0 90 ]
+	pos [ 86.7098 148.899 0.0205739 ]
+	nhpr [ 321.091 0 0 ]
 	sign [
 	 code [ "DD_sign2" ]
 	 pos [ 0 0 0 ]
@@ -95,6 +95,12 @@ group "lostAcre" [
    prop "prop_lost_acre_DNARoot" [
     code [ "prop_lost_acre" ]
     pos [ 0 0 0 ]
+    nhpr [ 0 0 0 ]
+    scale [ 1 1 1 ]
+   ]
+   prop "prop_tla_tree_gazebo_DNARoot" [
+    code [ "prop_tla_tree_gazebo" ]
+    pos [ 1.858 7.414 -16.815 ]
     nhpr [ 0 0 0 ]
     scale [ 1 1 1 ]
    ]

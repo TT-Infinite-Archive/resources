@@ -983,7 +983,7 @@ group "toontownCentral" [
   ]
   prop "prop_tree_fat_ur_DNARoot" [
    code [ "prop_tree_fat_ur" ]
-   pos [ 6.33804 100.879 2.5 ]
+   pos [ 7.33804 100.879 2.5 ]
    nhpr [ 135 0 0 ]
   ]
   prop "prop_tree_small_ul_DNARoot" [
@@ -1013,7 +1013,7 @@ group "toontownCentral" [
   ]
   prop "prop_tree_fat_ul_DNARoot" [
    code [ "prop_tree_fat_ul" ]
-   pos [ 6.51316 -96.6973 2.49997 ]
+   pos [ 7.332 -99.429 2.49997 ]
    nhpr [ 135 0 0 ]
   ]
   landmark_building "sz19:toon_landmark_TT_gag_shop_DNARoot" [
@@ -1206,7 +1206,7 @@ group "toontownCentral" [
   ]
   prop "prop_post_three_light_DNARoot" [
    code [ "prop_post_three_light" ]
-   pos [ 43.7488 -86.2016 3.00007 ]
+   pos [ 46.7488 -86.2016 3.00007 ]
    nhpr [ -2 0 0 ]
   ]
   prop "prop_post_three_light_DNARoot" [
@@ -1241,7 +1241,7 @@ group "toontownCentral" [
   ]
   prop "prop_hydrant_DNARoot" [
    code [ "prop_hydrant" ]
-   pos [ 135.748 -119.711 3 ]
+   pos [ 137.748 -120.711 3 ]
    nhpr [ -120 0 0 ]
   ]
   prop "prop_trashcan_metal_DNARoot" [
@@ -1256,12 +1256,12 @@ group "toontownCentral" [
   ]
   prop "prop_post_three_light_DNARoot" [
    code [ "prop_post_three_light" ]
-   pos [ 58.8052 93.6999 3 ]
+   pos [ 58.8052 92.6999 3 ]
    nhpr [ -90 0 0 ]
   ]
   prop "prop_post_three_light_DNARoot" [
    code [ "prop_post_three_light" ]
-   pos [ 92.8051 93.6997 3 ]
+   pos [ 94.8051 92.6997 3 ]
    nhpr [ -90 0 0 ]
   ]
   prop "prop_trashcan_metal_DNARoot" [
@@ -1271,7 +1271,7 @@ group "toontownCentral" [
   ]
   prop "prop_post_one_light_DNARoot" [
    code [ "prop_post_one_light" ]
-   pos [ 132.882 -122.532 3 ]
+   pos [ 134.882 -125.532 3 ]
    nhpr [ -130 0 0 ]
   ]
   prop "prop_post_one_light_DNARoot" [
@@ -1301,12 +1301,12 @@ group "toontownCentral" [
   ]
   prop "prop_post_three_light_DNARoot" [
    code [ "prop_post_three_light" ]
-   pos [ -101.98 -70.4832 0.5 ]
+   pos [ -99.98 -66.4832 0.5 ]
    nhpr [ 175 0 0 ]
   ]
   prop "prop_post_three_light_DNARoot" [
    code [ "prop_post_three_light" ]
-   pos [ -129.889 -39.5582 0.5 ]
+   pos [ -125.889 -42.5582 0.5 ]
    nhpr [ 175 0 0 ]
   ]
   prop "prop_trashcan_metal_DNARoot" [

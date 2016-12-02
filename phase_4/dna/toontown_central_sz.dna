@@ -559,19 +559,25 @@ group "toontownCentral" [
       scale [ 2.7 1 2.7 ]
       kern [ -0.2159 ]
       text [
-       letters [ "G" ]
+       letters [ "S" ]
+      ]
+      text [
+       letters [ "T" ]
       ]
       text [
        letters [ "A" ]
       ]
       text [
-       letters [ "M" ]
+       letters [ "T" ]
+      ]
+	  text [
+       letters [ "I" ]
+      ]
+	  text [
+       letters [ "O" ]
       ]
       text [
-       letters [ "E" ]
-      ]
-      text [
-       letters [ "S" ]
+       letters [ "N" ]
       ]
      ]
     ]
@@ -1385,21 +1391,6 @@ group "toontownCentral" [
    pos [ 38.282 163.591 2.95929 ]
    nhpr [ 31 0 0 ]
    scale [ 1.18418 1.18418 1.18418 ]
-  ]
-  prop "prop_barrier_cone_DNARoot" [
-   code [ "prop_barrier_cone" ]
-   pos [ -136 -66 0.545 ]
-   hpr [ 20 0 0 ]
-  ]
-  prop "prop_barrier_cone_DNARoot" [
-   code [ "prop_barrier_cone" ]
-   pos [ -143 -84 0.545 ]
-   hpr [ 100 0 0 ]
-  ]
-  prop "prop_barrier_cone_DNARoot" [
-   code [ "prop_barrier_cone" ]
-   pos [ -156 -71 0.545 ]
-   hpr [ 150 0 0 ]
   ]
   prop "prop_party_gate_DNARoot" [
    code [ "prop_party_gate" ]

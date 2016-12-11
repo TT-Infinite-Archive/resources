@@ -1,0 +1,124 @@
+group "toontownCentral" [
+ visgroup "2400" [
+  vis [   "2400"  ]
+  prop "prop_party_grounds_DNARoot" [
+   code [ "prop_party_grounds" ]
+   pos [ 0 0 0 ]
+   nhpr [ 0 0 0 ]
+  ]
+  prop "linktunnel_tt_2000_DNARoot" [
+    code [ "prop_safe_zone_entrance_tunnel" ]
+    pos [ 5.235 10.823 0.025 ]
+    nhpr [ 0 0 -0 ]
+    sign [
+     code [ "tunnel_sign_orange" ]
+     pos [ 0 0 -2.84 ]
+     scale [ 1.5 1 1.5 ]
+     baseline [
+      code [ "mickey" ]
+      color [ 0 0.501961 0.25098 1 ]
+      pos [ 0.09 0 -0.99 ]
+      scale [ 1.5 1 1.5 ]
+      width [ 38.4394 ]
+      height [ 38.4394 ]
+      text [
+       letters [ "P" ]
+      ]
+      text [
+       letters [ "L" ]
+      ]
+      text [
+       letters [ "A" ]
+      ]
+      text [
+       letters [ "Y" ]
+      ]
+      text [
+       letters [ "G" ]
+      ]
+      text [
+       letters [ "R" ]
+      ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ "U" ]
+      ]
+      text [
+       letters [ "N" ]
+      ]
+      text [
+       letters [ "D" ]
+      ]
+     ]
+     baseline [
+      pos [ 0 0 1.5 ]
+      scale [ 2.5 1 2.5 ]
+      graphic [
+       code [ "mickeySZ" ]
+      ]
+     ]
+     baseline [
+      code [ "mickey" ]
+      color [ 0 0.501961 0.25098 1 ]
+      pos [ 0 0 -1.94 ]
+      nhpr [ -0 0 1 ]
+      scale [ 0.8 1 0.8 ]
+      width [ 50 ]
+      height [ 50 ]
+      text [
+       letters [ "T" ]
+      ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ "N" ]
+      ]
+      text [
+       letters [ "T" ]
+      ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ "W" ]
+      ]
+      text [
+       letters [ "N" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "C" ]
+      ]
+      text [
+       letters [ "E" ]
+      ]
+      text [
+       letters [ "N" ]
+      ]
+      text [
+       letters [ "T" ]
+      ]
+      text [
+       letters [ "R" ]
+      ]
+      text [
+       letters [ "A" ]
+      ]
+      text [
+       letters [ "L" ]
+	  ]
+	 ]
+	] 
+   ]
+  ]
+ ]
+
+

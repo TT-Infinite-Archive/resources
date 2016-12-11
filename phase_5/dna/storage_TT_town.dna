@@ -232,3 +232,7 @@ hood_model "phase_5/models/char/tt_r_ara_ttc_trashcan" [
 hood_model "phase_5/models/char/tt_r_ara_ttc_trashcan" [
 	store_node [ "interactive_prop" "interactive_prop_phase_5_models_char__ttc_trashcan" ""]
 	]
+	
+hood_model "phase_13/models/parties/partyGrounds" [
+	store_node [ "prop" "prop_party_grounds" ""]
+	]

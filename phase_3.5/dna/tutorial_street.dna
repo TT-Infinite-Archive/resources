@@ -11,187 +11,22 @@ group "toontownCentralTutorial" [
   suit_edge [ 3 0 ]
   battle_cell [ 20 20 75 20 -0.5 ]
   group "tutorial" [
-   landmark_building "tb2:toon_landmark_TT_A1_DNARoot" [
-    code [ "toon_landmark_TT_A1" ]
-    title [ "" ]
-    pos [ 0 5 0 ]
-    nhpr [ 90 0 -0 ]
-    door [
-     code [ "door_double_round_ur" ]
-     color [ 1 0.87 0.38 1 ]
-    ]
-   ]
    landmark_building "tb1:toon_landmark_hqTT_DNARoot" [
     code [ "toon_landmark_hqTT" ]
     building_type [ "hq" ]
     title [ "Toon HQ" ]
-    pos [ 100 20 0 ]
-    nhpr [ 90 0 -0 ]
+    pos [ -155 15 0 ]
+    nhpr [ -91 0 0 ]
    ]
-  ]
- ]
- flat_building "tb0:10_10_DNARoot" [
-  pos [ 0 10 0 ]
-  nhpr [ 90 0 0 ]
-  width [ 5 ]
-  wall [
-   height [ 10 ]
-   code [ "wall_sm_cement_ur" ]
-   color [ 1 0.882353 0.803922 1 ]
-   windows [
-    code [ "window_porthole_ul" ]
-    color [ 0.0972673 0.590551 0.393701 1 ]
-    count [ 1 ]
-   ]
-   cornice [
-    code [ "None" ]
-    color [ 1 1 1 1 ]
-   ]
-  ]
-  wall [
-   height [ 10 ]
-   code [ "wall_sm_cement_ur" ]
-   color [ 1 0.882353 0.803922 1 ]
-   windows [
-    code [ "window_porthole_ul" ]
-    color [ 0.0972673 0.590551 0.393701 1 ]
-    count [ 1 ]
-   ]
-   cornice [
-    code [ "None" ]
-    color [ 1 1 1 1 ]
-   ]
-  ]
- ]
- flat_building "tb0:10_10_DNARoot" [
-  pos [ 0 15 0 ]
-  nhpr [ 90 0 0 ]
-  width [ 5 ]
-  wall [
-   height [ 10 ]
-   code [ "wall_sm_cement_ur" ]
-   color [ 1 0.882353 0.803922 1 ]
-   windows [
-    code [ "window_porthole_ul" ]
-    color [ 0.0972673 0.590551 0.393701 1 ]
-    count [ 1 ]
-   ]
-   cornice [
-    code [ "None" ]
-    color [ 1 1 1 1 ]
-   ]
-  ]
-  wall [
-   height [ 10 ]
-   code [ "wall_sm_cement_ur" ]
-   color [ 1 0.882353 0.803922 1 ]
-   windows [
-    code [ "window_porthole_ul" ]
-    color [ 0.0972673 0.590551 0.393701 1 ]
-    count [ 1 ]
-   ]
-   cornice [
-    code [ "None" ]
-    color [ 1 1 1 1 ]
-   ]
-  ]
- ]
- flat_building "tb0:10_10_DNARoot" [
-  pos [ 0 20 0 ]
-  nhpr [ 90 0 0 ]
-  width [ 5 ]
-  wall [
-   height [ 10 ]
-   code [ "wall_sm_cement_ur" ]
-   color [ 1 0.882353 0.803922 1 ]
-   windows [
-    code [ "window_porthole_ul" ]
-    color [ 0.0972673 0.590551 0.393701 1 ]
-    count [ 1 ]
-   ]
-   cornice [
-    code [ "None" ]
-    color [ 1 1 1 1 ]
-   ]
-  ]
-  wall [
-   height [ 10 ]
-   code [ "wall_sm_cement_ur" ]
-   color [ 1 0.882353 0.803922 1 ]
-   windows [
-    code [ "window_porthole_ul" ]
-    color [ 0.0972673 0.590551 0.393701 1 ]
-    count [ 1 ]
-   ]
-   cornice [
-    code [ "None" ]
-    color [ 1 1 1 1 ]
-   ]
-  ]
- ]
- flat_building "tb0:10_10_DNARoot" [
-  pos [ 0 25 0 ]
-  nhpr [ 90 0 0 ]
-  width [ 5 ]
-  wall [
-   height [ 10 ]
-   code [ "wall_sm_cement_ur" ]
-   color [ 1 0.882353 0.803922 1 ]
-   windows [
-    code [ "window_porthole_ul" ]
-    color [ 0.0972673 0.590551 0.393701 1 ]
-    count [ 1 ]
-   ]
-   cornice [
-    code [ "None" ]
-    color [ 1 1 1 1 ]
-   ]
-  ]
-  wall [
-   height [ 10 ]
-   code [ "wall_sm_cement_ur" ]
-   color [ 1 0.882353 0.803922 1 ]
-   windows [
-    code [ "window_porthole_ul" ]
-    color [ 0.0972673 0.590551 0.393701 1 ]
-    count [ 1 ]
-   ]
-   cornice [
-    code [ "None" ]
-    color [ 1 1 1 1 ]
-   ]
-  ]
- ]
- flat_building "tb0:10_10_DNARoot" [
-  pos [ 0 -5 0 ]
-  nhpr [ 90 0 -0 ]
-  width [ 10 ]
-  wall [
-   height [ 10 ]
-   code [ "wall_sm_cement_ur" ]
-   color [ 1 0.882353 0.803922 1 ]
-   windows [
-    code [ "window_porthole_ul" ]
-    color [ 0.0972673 0.590551 0.393701 1 ]
-    count [ 1 ]
-   ]
-   cornice [
-    code [ "None" ]
-    color [ 1 1 1 1 ]
-   ]
-  ]
-  wall [
-   height [ 10 ]
-   code [ "wall_sm_cement_ur" ]
-   color [ 1 0.882353 0.803922 1 ]
-   windows [
-    code [ "window_porthole_ul" ]
-    color [ 0.0972673 0.590551 0.393701 1 ]
-    count [ 1 ]
-   ]
-   cornice [
-    code [ "None" ]
-    color [ 1 1 1 1 ]
+   landmark_building "tb2:toon_landmark_TT_A1_DNARoot" [
+    code [ "toon_landmark_TT_A1" ]
+    title [ "" ]
+    pos [ 0 35 0 ]
+    nhpr [ -90 0 0 ]
+    door [
+     code [ "door_double_round_ur" ]
+     color [ 1 0.87 0.38 1 ]
+    ]
    ]
   ]
  ]

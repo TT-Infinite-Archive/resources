@@ -15,7 +15,7 @@ group "toontownCentralTutorial" [
     code [ "toon_landmark_hqTT" ]
     building_type [ "hq" ]
     title [ "Toon HQ" ]
-    pos [ -155 15 0 ]
+    pos [ -262.935 250.522 321.106 ]
     nhpr [ -91 0 0 ]
    ]
    landmark_building "tb2:toon_landmark_TT_A1_DNARoot" [

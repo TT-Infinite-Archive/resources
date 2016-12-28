@@ -1,24 +1,5 @@
 group "toontownCentralTutorial" [
  visgroup "20001" [
   vis [   "20001"   ]
-  group "tutorial" [
-   landmark_building "tb1:toon_landmark_hqTT_DNARoot" [
-    code [ "toon_landmark_hqTT" ]
-    building_type [ "hq" ]
-    title [ "Toon HQ" ]
-    pos [ -262.935 250.522 321.106 ]
-    nhpr [ -91 0 0 ]
-   ]
-   landmark_building "tb2:toon_landmark_TT_A1_DNARoot" [
-    code [ "toon_landmark_TT_A1" ]
-    title [ "" ]
-    pos [ 0 35 0 ]
-    nhpr [ -90 0 0 ]
-    door [
-     code [ "door_double_round_ur" ]
-     color [ 1 0.87 0.38 1 ]
-    ]
-   ]
-  ]
  ]
 ]

@@ -1,0 +1,10 @@
+group "toonPalooza" [
+ visgroup "15000:safe_zone" [
+  vis [   "15000:safe_zone"   ]
+  prop "prop_party_grounds_DNARoot" [
+   code [ "prop_party_grounds" ]
+   pos [ 0 0 0 ]
+   nhpr [ 0 0 0 ]
+  ]
+ ]
+]

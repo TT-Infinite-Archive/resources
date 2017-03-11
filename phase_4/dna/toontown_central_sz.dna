@@ -49,8 +49,7 @@ group "toontownCentral" [
    ]
   ]
   group "props" [
-   prop "tt_2226_DNARoot" [
-   // prop "linktunnel_tt_2226_DNARoot" [
+   prop "linktunnel_tt_2226_DNARoot" [
     code [ "prop_safe_zone_tunnel" ]
     pos [ -239.67 64.08 -6.18 ]
     nhpr [ -90 0 0 ]
@@ -165,8 +164,7 @@ group "toontownCentral" [
      ]
     ]
    ]
-   prop "tt_2132_DNARoot" [
-   // prop "linktunnel_tt_2132_DNARoot" [
+   prop "linktunnel_tt_2132_DNARoot" [
     code [ "prop_safe_zone_tunnel" ]
     pos [ -68.38 -202.64 -3.58 ]
     nhpr [ -31 0 0 ]
@@ -282,8 +280,7 @@ group "toontownCentral" [
      ]
     ]
    ]
-   prop "tt_2301_DNARoot" [
-   // prop "linktunnel_tt_2301_DNARoot" [
+   prop "linktunnel_tt_2301_DNARoot" [
     code [ "prop_safe_zone_tunnel" ]
     pos [ 27.6402 176.475 -6.18 ]
     nhpr [ 171 0 0 ]

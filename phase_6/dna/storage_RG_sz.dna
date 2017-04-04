@@ -29,3 +29,7 @@ place_model "phase_6/models/props/oz_tree_group" [
 place_model "phase_6/models/golf/Golfzone_To_Bossbot_Tunnel" [
 	store_node [ "prop" "prop_golf_cog_tunnel" "" ]
 	]
+	
+place_model "phase_5.5/models/estate/houseB" [
+	store_node [ "prop" "prop_houseb" "" ]
+	]

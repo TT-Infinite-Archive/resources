@@ -12,11 +12,11 @@ group "resistanceGrounds" [
     pos [ 117.150 -43.297 21.352 ]
     nhpr [ -124.299 0 0 ]
    ]
-    prop "linktunnel_sz_19000_DNARoot" [
-    code [ "prop_outdoor_zone_entrance" ]
-    pos [ -28 102 22.352 ]
-    nhpr [ 124.299 0 0 ]
-   ] 
+   prop "houseb_DNARoot" [
+    code [ "prop_houseb" ]
+    pos [ 549.649 1183.322 112.435 ]
+    nhpr [ 121 0 0 ]
+   ]
     prop "resistance_hall_DNARoot" [
     code [ "resistance_hall" ]
     pos [ -311.754 224.718 44.913]

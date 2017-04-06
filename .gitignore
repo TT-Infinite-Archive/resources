@@ -15,6 +15,12 @@ nosetests.xml
 .project
 .pydevproject
 
+# Maya
+*.swatch
+*.swatches
+*.mb
+*.psd
+
 # Toontown Infinite Resources
 *.txt
 phase_3/maps/tt_t_gui_pat_background.psd

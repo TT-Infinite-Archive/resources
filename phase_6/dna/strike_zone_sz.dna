@@ -378,7 +378,7 @@ group "toontownCentral" [
   battle_cell [ 20 20 69 -144 2.525 ]
   ]
   group "props" [
-   prop "linktunnel_rg_2000_DNARoot" [
+   prop "linktunnel_tt_2000_DNARoot" [
     code [ "prop_safe_zone_tunnel" ]
     pos [ -239.67 64.08 -6.18 ]
     nhpr [ -90 0 0 ]
@@ -461,13 +461,13 @@ group "toontownCentral" [
      ]
     ]
    ]
-   landmark_building "sz16:toon_landmark_TT_school_house_DNARoot" [
+   landmark_building "sz0:toon_landmark_TT_school_house_DNARoot" [
 	code [ "toon_landmark_TT_school_house" ]
 	title [ "Toontown School House" ]
-	pos [ 62.48 -125.41 0.44 ]
-	nhpr [ 215.54 0 38.66 ]
+    pos [ 129.919 -138.445 2.4997 ]
+    nhpr [ -140 0 0 ]
    ]	
-   landmark_building "sz21:toon_landmark_TT_clothes_shop_DNARoot" [
+   landmark_building "sz0:toon_landmark_TT_clothes_shop_DNARoot" [
 	code [ "toon_landmark_TT_clothes_shop" ]
 	building_type [ "clotheshop" ]
 	title [ "Clothing Shop" ]
@@ -589,23 +589,6 @@ group "toontownCentral" [
    pos [ 0.84 -5.06 13.07 ]
    nhpr [ 180.00 0 14.04 ]
    scale [ 0.51 0.51 0.51 ]
-  ]
-  prop "prop_blimp_gear_DNARoot" [
-   code [ "prop_blimp_gear" ]
-   pos [ -24.03 -90.28 5.93 ]
-   hpr [ 189.46 61.93 0 ]
-   scale [ 5.60 5.60 5.60 ]
-  ]
-  prop "prop_blimp_gear_DNARoot" [
-   code [ "prop_blimp_gear" ]
-   pos [ -32.80 -62.68 4.36 ]
-   hpr [ 21.80 0 0 ]
-   scale [ 14.20 16.82 15.00 ]
-  ]
-  prop "prop_blimp_gear_DNARoot" [
-   code [ "prop_blimp_gear" ]
-   pos [ -32.56 -63.13 7.21 ]
-   scale [ 9.42 9.42 9.42 ]
   ]
   prop "prop_gov_buildings_DNARoot" [
    code [ "prop_gov_buildings" ]

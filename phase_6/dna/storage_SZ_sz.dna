@@ -91,10 +91,6 @@ place_model "phase_4/models/corpstrike/ttc_statue" [
 	store_node [ "prop" "prop_ttc_statue" "" ]
 	]
     
-place_model "phase_9/models/cogHQ/FactoryGearB.bam" [
-    store_node [ "prop" "prop_blimp_gear" "" ]
-    ]
-    
 place_model "phase_4/models/corpstrike/gov_wall_entrance.bam" [
     store_node [ "prop" "prop_gov_wall_entrance" "" ]
     ]

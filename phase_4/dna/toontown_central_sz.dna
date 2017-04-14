@@ -283,8 +283,136 @@ group "toontownCentral" [
    prop "linktunnel_sz_19000_DNARoot" [
     code [ "prop_safe_zone_tunnel" ]
     pos [ 0 0 0 ]
-    nhpr [ 124.299 0 0 ]
-   ] 
+    nhpr [ 171 0 0 ]
+    sign [
+     code [ "tunnel_sign_orange" ]
+     pos [ 0 0 -0.18 ]
+     scale [ 1.5 1 1.5 ]
+     baseline [
+      code [ "mickey" ]
+      color [ 0 0.501961 0 1 ]
+      pos [ 0 0 -2.01 ]
+      nhpr [ 0 0 1 ]
+      scale [ 0.8 1 0.8 ]
+      width [ 40.563 ]
+      height [ 40.563 ]
+      text [
+       letters [ "T" ]
+      ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ "N" ]
+      ]
+      text [
+       letters [ "T" ]
+      ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ "W" ]
+      ]
+      text [
+       letters [ "N" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "C" ]
+      ]
+      text [
+       letters [ "E" ]
+      ]
+      text [
+       letters [ "N" ]
+      ]
+      text [
+       letters [ "T" ]
+      ]
+      text [
+       letters [ "R" ]
+      ]
+      text [
+       letters [ "A" ]
+      ]
+      text [
+       letters [ "L" ]
+      ]
+     ]
+     baseline [
+      code [ "mickey" ]
+      color [ 0 0.501961 0 1 ]
+      pos [ 0 0 -0.33 ]
+      scale [ 1.3 1 1 ]
+      width [ 49.1087 ]
+      height [ 49.1087 ]
+      text [
+       letters [ "P" ]
+      ]
+      text [
+       letters [ "U" ]
+      ]
+      text [
+       letters [ "N" ]
+      ]
+      text [
+       letters [ "C" ]
+      ]
+      text [
+       letters [ "H" ]
+      ]
+      text [
+       letters [ "L" ]
+      ]
+      text [
+       letters [ "I" ]
+      ]
+      text [
+       letters [ "N" ]
+      ]
+      text [
+       letters [ "E" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+     ]
+     baseline [
+      pos [ 0 0 1.69 ]
+      scale [ 2.5 1 2.5 ]
+      graphic [
+       code [ "mickeySZ" ]
+      ]
+     ]
+     baseline [
+      code [ "mickey" ]
+      color [ 0 0.501961 0 1 ]
+      pos [ 0 0 -1.34 ]
+      scale [ 1.3 1 1 ]
+      text [
+       letters [ "P" ]
+      ]
+      text [
+       letters [ "L" ]
+      ]
+      text [
+       letters [ "A" ]
+      ]
+      text [
+       letters [ "C" ]
+      ]
+      text [
+       letters [ "E" ]
+      ]
+     ]
+    ]
+   ]
    prop "linktunnel_tt_2301_DNARoot" [
     code [ "prop_safe_zone_tunnel" ]
     pos [ 27.6402 176.475 -6.18 ]

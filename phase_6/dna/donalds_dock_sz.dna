@@ -525,19 +525,22 @@ group "donaldsDock" [
        letters [ " " ]
       ]
       text [
-       letters [ "D" ]
+       letters [ "H" ]
       ]
       text [
+       letters [ "A" ]
+      ]
+      text [
+       letters [ "R" ]
+      ]
+      text [
+       letters [ "B" ]
+      ]
+	  text [
        letters [ "O" ]
       ]
       text [
-       letters [ "C" ]
-      ]
-      text [
-       letters [ "K" ]
-      ]
-      text [
-       letters [ "S" ]
+       letters [ "R" ]
       ]
      ]
      baseline [
@@ -641,19 +644,22 @@ group "donaldsDock" [
        letters [ " " ]
       ]
       text [
-       letters [ "D" ]
+       letters [ "H" ]
       ]
       text [
+       letters [ "A" ]
+      ]
+      text [
+       letters [ "R" ]
+      ]
+      text [
+       letters [ "B" ]
+      ]
+	  text [
        letters [ "O" ]
       ]
       text [
-       letters [ "C" ]
-      ]
-      text [
-       letters [ "K" ]
-      ]
-      text [
-       letters [ "S" ]
+       letters [ "R" ]
       ]
      ]
 	]	
@@ -736,19 +742,22 @@ group "donaldsDock" [
        letters [ " " ]
       ]
       text [
-       letters [ "D" ]
+       letters [ "H" ]
       ]
       text [
+       letters [ "A" ]
+      ]
+      text [
+       letters [ "R" ]
+      ]
+      text [
+       letters [ "B" ]
+      ]
+	  text [
        letters [ "O" ]
       ]
       text [
-       letters [ "C" ]
-      ]
-      text [
-       letters [ "K" ]
-      ]
-      text [
-       letters [ "S" ]
+       letters [ "R" ]
       ]
      ]
      baseline [

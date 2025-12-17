@@ -29,3 +29,7 @@ place_model "phase_3.5/models/modules/safe_zone_entrance_tunnel_TT" [
 place_model "phase_6/models/karting/Parkingspot" [
 	store_node [ "prop" "gs_parkingspot" "" ]
 ]
+
+place_model "phase_6/models/golf/Golfzone_To_Bossbot_Tunnel" [
+	store_node [ "prop" "prop_golf_cog_tunnel" "" ]
+	]

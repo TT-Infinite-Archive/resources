@@ -70,6 +70,11 @@ group "goofySpeedway" [
     pos [ 0 0 0 ]
     nhpr [ 0 0 0 ]
    ]
+   prop "linktunnel_bosshq_10000_DNARoot" [
+    code [ "prop_golf_cog_tunnel" ]
+    pos [ 100 -95 0.05 ]
+    nhpr [ 45 0 0 ]
+   ]
    prop "tunnel_gz_DNARoot" [
     code [ "prop_golf_tunnel2" ]
     pos [ -20 -100 0.129929 ]

@@ -8,10 +8,6 @@ hood_model "phase_3.5/models/modules/hqTT" [
 	store_node [ "toon_landmark" "toon_landmark_hqTT" "" ]
 	]
 
-hood_model "phase_4/models/corpstrike/hqTT_ost" [
-	store_node [ "toon_landmark" "hqTT_ost" "" ]
-	]
-
 hood_model "phase_3.5/models/props/HQ_telescope-mod" [
 	store_node [ "prop" "animated_prop_HQTelescopeAnimatedProp" "telescope" ]
 	]

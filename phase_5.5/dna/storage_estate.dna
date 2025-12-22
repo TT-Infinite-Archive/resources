@@ -47,5 +47,5 @@ store_font [ "font" "humanist"
 
 // Warning!  This is overridden in PlayGame.py
 store_font [ "font" "mickey"
-             "phase_3/models/fonts/MickeyFont" ]
+             "phase_3/models/fonts/MickeyFont.bam" ]
 

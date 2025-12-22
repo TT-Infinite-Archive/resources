@@ -332,7 +332,7 @@ model "phase_3.5/models/props/tunnel_sign_orange" [
 	]
 
 store_font [ "font" "mickey"
-             "phase_3/models/fonts/MickeyFont" ]
+             "phase_3/models/fonts/MickeyFont.bam" ]
 
 model "phase_3.5/models/props/mickeySZ" [
 	store_node [ "graphic" "mickeySZ" ]

@@ -356,18 +356,15 @@ model "phase_4/models/props/construction_sign" [
 	]
 
 
-// This font is no longer used.
-//store_font [ "font" "comic"
-//             "phase_3/models/fonts/Comic" ]
 
 // We switched the interface font from impress to humanist
 // Warning!  This is overridden in PlayGame.py
 store_font [ "font" "humanist"
-             "phase_3/models/fonts/Humanist" ]
+             "phase_3/models/fonts/Humanist.ttf" ]
 
 // Warning!  This is overridden in PlayGame.py
 store_font [ "font" "mickey"
-             "phase_3/models/fonts/MickeyFont" ]
+             "phase_3/models/fonts/MickeyFont.bam" ]
 
 // This is used on some signs "TO COG HEADQUARTERS" etc.
 // Warning!  This is overridden in PlayGame.py

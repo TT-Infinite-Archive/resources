@@ -157,13 +157,28 @@ group "daisysGarden" [
       wiggle [ 3 ]
       stomp [ 0.0367716 ]
       text [
-       letters [ "T" ]
+       letters [ "D" ]
       ]
       text [
-       letters [ "h" ]
+       letters [ "o" ]
       ]
       text [
-       letters [ "e" ]
+       letters [ "n" ]
+      ]
+      text [
+       letters [ "a" ]
+      ]
+      text [
+       letters [ "l" ]
+      ]
+      text [
+       letters [ "d" ]
+      ]
+      text [
+       letters [ "'" ]
+      ]
+      text [
+       letters [ "s" ]
       ]
       text [
        letters [ " " ]
@@ -179,9 +194,6 @@ group "daisysGarden" [
       ]
       text [
        letters [ "k" ]
-      ]
-      text [
-       letters [ "s" ]
       ]
      ]
     ]

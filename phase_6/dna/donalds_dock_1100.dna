@@ -1797,8 +1797,8 @@ group "donaldsDock" [
    code [ "interactive_prop_phase_5_models_char__ttc_hydrant" ]
    anim [ "tt_a_ara_ttc_hydrant_fightBoost" ]
    cell_id [ 0 ]
-   pos [ 18 -8 0 ]
-   nhpr [ 90 0 -0 ]
+   pos [ 258 127 0 ]
+   nhpr [ 0 0 0 ]
   ]
  ]
  visgroup "1106" [

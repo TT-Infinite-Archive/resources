@@ -33,3 +33,7 @@ place_model "phase_8/models/modules/clothshopDG" [
 place_model "phase_4/models/props/exteriorfish-zero" [
 	store_node [ "prop" "animated_prop_PetShopFishAnimatedProp" "exteriorfish" ]
 	]
+
+place_model "phase_4/models/props/neighborhood_sign_sellBotHQ" [
+	store_node [ "prop" "neighborhood_sign_sellBotHQ" "" ]
+	]

@@ -29,3 +29,7 @@ tt_t_gui_pat_background.psd
 
 # macOS-specific files
 .DS_Store
+
+# Written by the dev servers and client at runtime
+tmp/
+zone_*.mf
